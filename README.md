@@ -33,7 +33,7 @@ BL180m Ducted Fan Motor, 13,500Kv, 100mm Wire EFLM30180MDFC|1|ea.|29.99|[  ]
 Horizon Hobby Expedited Shipping|1|ea.|9.99|[  ]
 
 ## Car Photos (RC version)
-![RC Parts](Photos/File000.jpeg?raw=true "RC Parts")
+![RC Parts](Photos/File_000.jpeg?raw=true "RC Parts")
 
 ## Race Video (RC version)
 [**PWD outlaw Lane 3**](https://youtu.be/PbGYy1cfhlE)
