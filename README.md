@@ -34,6 +34,8 @@ Horizon Hobby Expedited Shipping|1|ea.|9.99|[  ]
 
 ## Car Photos (RC version)
 ![RC Parts](Photos/File_000.jpeg?raw=true "RC Parts")
+![RC Front View](Photos/File_001.jpeg?raw=true "RC Front View")
+![RC Side View](Photos/File_002.jpeg?raw=true "RC Side View")
 
 ## Race Video (RC version)
 [**PWD outlaw Lane 3**](https://youtu.be/PbGYy1cfhlE)
